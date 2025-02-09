@@ -8,7 +8,7 @@ Hello there! I'm **zeykdev**, and welcome to my Java Programming Practice reposi
 2. [Getting Started](#getting-started)
 3. [Projects](#projects)
 4. [Contributing](#contributing)
-5. [License](#license)
+5. [License](#LICENSE)
 6. [Contact](#contact)
 
 ## Introduction 📝
