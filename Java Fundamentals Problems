@@ -1,0 +1,6 @@
+1. Print the Slash
+DIAGONAL LINES?!?! Cody can’t print diagonal lines (the slash \ character) normally because it is a special character. 
+Unless there is a way for us to bypass this limitation. Hmmmm… Try to print a slash and see.
+
+Sample Output:
+\
