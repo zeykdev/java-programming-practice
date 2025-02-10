@@ -1,3 +1,5 @@
+©tto - Codeshum PH
+
 1. Print the Slash
 DIAGONAL LINES?!?! Cody can’t print diagonal lines (the slash \ character) normally because it is a special character. 
 Unless there is a way for us to bypass this limitation. Hmmmm… Try to print a slash and see.
@@ -14,3 +16,11 @@ kids a lesson, have Cody print Look! I can print "special" 'characters' like \. 
 
 Sample Output:
 Look! I can print "special" 'characters' like \.
+
+
+3. The Word of the Day
+
+This month is English month so everyday in class, a student must present his/her 'word of the day' and explain what it is. Today is Cody's turn, he decides to present the word 'apostrophe' and show them how it looks. Write a program that prints an apostrophe(') for the class.
+Sample Output 1
+
+'
