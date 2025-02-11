@@ -19,7 +19,7 @@ In this repository, you will find a variety of Java programming exercises, from 
 
 To get started with this repository, follow these steps:
 
-1. **Clone the repo**: `git clone https://github.com/your-username/java-programming-practice.git`
+1. **Clone the repo**: `git clone https://github.com/zeykdev/java-programming-practice.git`
 2. **Navigate to the project directory**: `cd java-programming-practice`
 3. **Compile and run the exercises**: Follow the instructions provided in each exercise's README file.
 
